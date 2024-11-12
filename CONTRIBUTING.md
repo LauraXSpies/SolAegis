@@ -51,7 +51,7 @@ We welcome suggestions for new features or improvements! If you have an idea, pl
 If you're interested in collaborating on SolAegis, we’d love to hear from you! Here are some ways you can get in touch:
 
 - General Inquiries: For questions or discussions about the project, feel free to open a Discussion on GitHub.
-- Feature Proposals & Research Collaborations: If you have a proposal for a major feature or are interested in research collaborations, please reach out via email at contact@example.com.
+- Feature Proposals & Research Collaborations: If you have a proposal for a major feature or are interested in research collaborations, please reach out via email at laura.spies@student.hpi.uni-potsdam.de .
 - Community Chat: Join our community chat on Discord/Slack to connect with other contributors, ask questions, and discuss ideas in real-time.
 
 We welcome researchers, developers, and organizations interested in enhancing heat monitoring solutions to join us in building SolAegis. Let’s work together to make an impact!
