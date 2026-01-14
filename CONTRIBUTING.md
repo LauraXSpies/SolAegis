@@ -1,57 +1,60 @@
 # Contributing to SolAegis
 
-Thank you for your interest in contributing to SolAegis! Contributions are a fantastic way to improve the project and make it more valuable for everyone. Whether you're reporting a bug, suggesting a feature, or submitting a code contribution, your efforts are highly appreciated.
+Thank you for your interest in contributing to SolAegis. We welcome engagement from students, researchers, developers, and organizations who are interested in climate-related health research and knowledge graph–based methods.
 
-## Table of Contents
+SolAegis is currently in an **early research and design phase**. Public contributions at this stage focus primarily on discussion, documentation, and conceptual feedback. Implementation code and active research pipelines are maintained in a separate controlled-access repository.
 
-- [How to Contribute](#how-to-contribute)
-- [Reporting Issues](#reporting-issues)
-- [Suggesting Enhancements](#suggesting-enhancements)
-- [Code Contributions](#code-contributions)
-- [Code of Conduct](#code-of-conduct)
-- [Collaboration](#collaboration)
 
----
+## Ways to Contribute
 
-## How to Contribute
+At the current stage, the following forms of contribution are particularly welcome:
 
-There are several ways you can contribute to SolAegis:
-- Reporting bugs or issues
-- Suggesting new features or improvements
-- Improving documentation
-- Submitting code contributions (fixes, enhancements, etc.)
+- Reporting issues or inconsistencies in documentation
+- Suggesting research directions, use cases, or methodological improvements
+- Improving clarity, structure, or references in project documentation
+- Participating in discussions around environmental data, knowledge graphs, and reproducible research
 
-Please make sure to read through this guide before contributing to ensure your contributions are aligned with the project goals.
-
----
+Contributions involving implementation code or experimental pipelines are reviewed on a case-by-case basis.
 
 ## Reporting Issues
 
-If you find a bug or have an issue with SolAegis, please let us know! Here’s how to report it:
+If you notice an issue or have a question regarding the public project scope:
 
-1. **Check Existing Issues**: Before creating a new issue, check the [Issues](https://github.com/LauraXSpies/SolAegis/issues) page to see if someone else has already reported it.
-2. **Open a New Issue**: If the issue hasn’t been reported yet, create a new issue with a descriptive title and detailed explanation.
-3. **Provide Steps to Reproduce**: Include steps to reproduce the bug, the expected result, and the actual result.
-4. **Additional Context**: If possible, include screenshots, error messages, or other context to help us understand the problem.
-
----
+1. Please check existing issues to avoid duplicates.
+2. Open a new issue with a clear title and detailed description.
+3. Provide relevant context or references where possible.
 
 ## Suggesting Enhancements
 
-We welcome suggestions for new features or improvements! If you have an idea, please open a new issue and include the following details:
+We welcome thoughtful suggestions, especially those grounded in research or practical use cases.
 
-- **Description of the enhancement**: Describe what you’d like to see in SolAegis and why it would be helpful.
-- **Use cases**: Explain how this enhancement would benefit users or improve the project.
-- **Alternatives**: If applicable, mention any alternative approaches you've considered.
+When proposing an enhancement, please include:
+- A short description of the idea
+- The research or practical motivation
+- Any relevant references or prior work
 
----
+Please note that not all suggestions can be implemented, and acceptance depends on research scope, governance constraints, and available capacity.
+
+## Code Contributions
+
+At this stage, **direct code contributions to this public repository are limited**.
+
+If you are interested in contributing code, experimental methods, or datasets as part of a research collaboration, please open an issue or contact the maintainers to discuss alignment, scope, and governance requirements before proceeding.
 
 ## Collaboration
 
-If you're interested in collaborating on SolAegis, we’d love to hear from you! Here are some ways you can get in touch:
+We are open to collaboration with:
+- Students (Bachelor’s, Master’s, PhD)
+- Academic researchers
+- Startups and early-stage ventures
+- Public-sector, non-profit, and research-oriented organizations
 
-- General Inquiries: For questions or discussions about the project, feel free to open a Discussion on GitHub.
-- Feature Proposals & Research Collaborations: If you have a proposal for a major feature or are interested in research collaborations, please reach out via email at laura.spies@student.hpi.uni-potsdam.de .
-- Community Chat: Join our community chat on Discord/Slack to connect with other contributors, ask questions, and discuss ideas in real-time.
+Participation in research activities is subject to supervision capacity, project scope, and applicable institutional, ethical, and governance requirements, and does not constitute an automatic acceptance or partnership.
 
-We welcome researchers, developers, and organizations interested in enhancing heat monitoring solutions to join us in building SolAegis. Let’s work together to make an impact!
+For research collaboration inquiries, please contact:
+**solaegis@posteo.de**
+
+## Code of Conduct
+
+All contributors are expected to engage respectfully and professionally.  
+Harassment, discrimination, or inappropriate behavior will not be tolerated.
